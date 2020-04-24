@@ -1,0 +1,11 @@
+CREATE TABLE person
+(
+personId SERIAL PRIMARY KEY NOT NULL,
+personName TEXT NOT NULL
+);
+
+CREATE TABLE task
+(
+taskId SERIAL PRIMARY KEY NOT NULL,
+description TEXT NOT NULL
+);
