@@ -1,0 +1,19 @@
+body{
+    background-color: whitesmoke;
+}
+
+.Site-Content{
+    max-width: 1270px;
+    margin: 0px auto 0px auto;
+}
+
+.Title{
+    text-align: center;
+    font-size: 70px;
+    color: burlywood;
+    font-style: italic;
+}
+
+.Todo-Container{
+
+}

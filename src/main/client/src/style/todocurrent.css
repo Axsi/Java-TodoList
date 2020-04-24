@@ -1,0 +1,48 @@
+.Main-Container{
+
+}
+
+.TodoCurrent-Container{
+
+}
+
+.TodoList{
+
+}
+
+.Task{
+
+}
+
+.Task-Form{
+    display:flex;
+    justify-content: center;
+}
+
+.Task-Input-Container{
+
+}
+
+.Task-Name{
+    width: 150px;
+}
+
+.Task-Name::placeholder{
+    opacity: 1;
+}
+
+.Task-Description{
+    width: 500px;
+}
+
+.Task-Description::placeholder{
+    opacity: 1;
+}
+
+.Task-Update{
+
+}
+
+.Task-Delete{
+
+}
